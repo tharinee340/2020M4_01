@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #000;
+}
+h2,h3 {
+    text-align: left;
+    color: #594A41;
+}
+h2 {
+    font-size: 28px;
+}
+h3 {
+    font-size: 28px;
+}
+.general_ed {
+    background-color: #B8775D;
+}
+.general_ed ul li {
+    background-color: #7C5A4B;
+}
+.general_ed2 {
+    background-color: #B8775D;
+}
+.general_ed2 ul li {
+    background-color: #7C5A4B;
+}
+ul li.passed {
+    background-color: #B8775D;
+}
+ul li.studying {
+    background-color:#956753;
+}
+
+ul li {
+    color: white;
+}
